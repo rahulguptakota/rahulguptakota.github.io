@@ -6,9 +6,29 @@
     <description>Recent content in Homes on Rahul Gupta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Rahul Gupta</copyright>
+    <copyright>&amp;copy; 2017 Your Name</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://rahulguptakota.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://rahulguptakota.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://rahulguptakota.github.io/home/about/</guid>
+      <description>Biography I am a fourth year undergraduate student pursuing B.Tech - M.Tech(Dual Degree) in Computer Science at Indian Institute of Technology, Kanpur. I am highly interested in the field of Knowledge Compilation, Cyber Security and AI. In past, I have done courses and projects in Computer Systems Security, Machine Learning, Computer Vision, Data Structures and Algorithms, Operating Systems, Compilers and Database Management Systems. I interned at Microsoft in the last summer.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://rahulguptakota.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://rahulguptakota.github.io/home/contact/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
