@@ -5,8 +5,8 @@
     <link>https://rahulguptakota.github.io/home/</link>
     <description>Recent content in Homes on Rahul Gupta</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2017 Your Name</copyright>
+    <language>en-uk</language>
+    <copyright>&amp;copy; 2017 Rahul Gupta</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://rahulguptakota.github.io/home/index.xml" rel="self" type="application/rss+xml" />
@@ -18,7 +18,25 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://rahulguptakota.github.io/home/about/</guid>
-      <description>Biography I am a fourth year undergraduate student pursuing B.Tech - M.Tech(Dual Degree) in Computer Science at Indian Institute of Technology, Kanpur. My research interest lies in Knowledge Compilations, Cyber Security and AI. I am currently on working on Knowledge Compilation methods under Prof. Kuldeep Meel and Prof. Subhajit Roy. Recently, my work on securing databases from insider attacks using Blockchains got published in workshop at ISRDC, IIT Bombay. I interned at Microsoft in the last summer.</description>
+      <description>Biography I am a graduate in Computer Science from Indian Institute of Technology, Kanpur. I have been fortunate to work with Prof. Kuldeep Meel from NUS and Prof. Subhajit Roy from IIT Kanpur who broadly led me into the world of Logic and Automated Reasoning in CS. I am currently working on analysing the size and compile times in Knowledge Compilations on random CNFs. Our works on sampling using knowledge compilations have been accepted to TACAS 2019 and LPAR 2019.</description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>https://rahulguptakota.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>https://rahulguptakota.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://rahulguptakota.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://rahulguptakota.github.io/home/posts/</guid>
+      <description></description>
     </item>
     
     <item>
